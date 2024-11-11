@@ -32,6 +32,7 @@ int main() {
 
     assert(integer == 246);
 }
+```
 
 ## License
 
